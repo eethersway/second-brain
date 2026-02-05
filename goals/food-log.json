@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "startDate": "2026-02-05",
+    "dailyTarget": null,
+    "notes": "Calorie estimates are approximate based on typical portions"
+  },
+  "days": {
+    "2026-02-05": {
+      "entries": [
+        {
+          "time": "23:41",
+          "meal": "dinner",
+          "description": "1 large al pastor burrito",
+          "estimatedCalories": 850,
+          "breakdown": "Large tortilla ~300, al pastor pork ~350, rice/beans ~150, toppings ~50"
+        }
+      ],
+      "totalCalories": 850
+    }
+  }
+}
